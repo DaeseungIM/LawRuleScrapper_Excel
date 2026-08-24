@@ -1,0 +1,8 @@
+{
+  "name": "관세법령 & 행정규칙 개정연혁 엑셀 다운로드",
+  "description": "국가법령정보포털 API를 이용하여 법령 및 행정규칙의 개정연혁을 실시간 조회하고 엑셀(XLSX)로 다운로드하는 자동화 도구입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
